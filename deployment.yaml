@@ -30,4 +30,4 @@ spec:
   ports:
     - port: 80
       targetPort: 80
-      nodePort: 30007 # Visualize your deployment here
+      nodePort: 30010 # Visualize your deployment here
